@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "NFC_Antenna") (type "KiCad") (uri "/Users/benjamin/PCB-Business-Card/NFC_Antenna.kicad_sym") (options "") (descr ""))
+)

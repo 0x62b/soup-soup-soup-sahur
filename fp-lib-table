@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "cybercard") (type "KiCad") (uri "/Users/benjamin/cybercard/pcb/lib/CyberCard.pretty") (options "") (descr ""))
+)
