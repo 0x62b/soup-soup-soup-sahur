@@ -3,6 +3,8 @@ a programmable nfc badge that go kaboom when plugged into usb
 
 made for hack club [fallout](https://hack.club/fallout) inperson hackathon
 
+REVIEW NOTE: the cost is different to what i thought it was and put on the form; the one in the bom is correct
+
 ## BOM
 see `bom.csv`
 
