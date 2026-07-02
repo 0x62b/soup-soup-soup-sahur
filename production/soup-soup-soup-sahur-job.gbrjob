@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.3"
     },
-    "CreationDate": "2026-07-02T20:48:45+08:00"
+    "CreationDate": "2026-07-02T21:17:45+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,8 +34,108 @@
   ],
   "FilesAttributes": [
     {
+      "Path": "soup-soup-soup-sahur-F_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-B_Cu.gbr",
+      "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-F_Adhesive.gbr",
+      "FileFunction": "Glue,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-B_Adhesive.gbr",
+      "FileFunction": "Glue,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
       "Path": "soup-soup-soup-sahur-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_Drawings.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_Eco1.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_Eco2.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-F_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-B_Fab.gbr",
+      "FileFunction": "AssemblyDrawing,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_1.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_2.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_3.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "soup-soup-soup-sahur-User_4.gbr",
+      "FileFunction": "Other,User",
       "FilePolarity": "Positive"
     }
   ],
