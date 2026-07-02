@@ -1,5 +1,5 @@
 item,qty,ext cost (usd),note,link
-pcb,5,3.2,include shipping,https://jlcpcb.com
+pcb,5,5.11,included shipping,https://jlcpcb.com
 usb port,5,0,owned,n/a
 5.1k resistor,10,0.44,,https://www.lcsc.com/product-detail/C125891.html
 tantalum cap,5,3.11,,https://www.lcsc.com/product-detail/C54321556.html
